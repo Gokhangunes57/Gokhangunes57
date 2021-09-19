@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gokhangunes57
 - 👀 I’m interested in unity and c#
-- 🌱 I’m currently learning advance unity
+- 🌱 I’m currently learning advance level unity
 - 📫 How to reach me ...132ggokhann@gmail.com
 
 <!---
